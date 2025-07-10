@@ -1,4 +1,4 @@
-# LogAnalyzer - Sistema de Gerenciamento e Análise de Logs
+Sistema de Gerenciamento e Análise de Logs
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)
