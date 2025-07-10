@@ -45,7 +45,7 @@ O objetivo do LogAnalyzer é oferecer uma solução prática e acessível para p
 ---
 
 ## Autor
-Roberto Figueredo Rodrigues
-Programa de Pós-Graduação em Ciências Forenses
-Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)
-LinkedIn | GitHub
+- Roberto Figueredo Rodrigues
+- Programa de Pós-Graduação em Ciências Forenses
+- Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)
+- LinkedIn | GitHub
